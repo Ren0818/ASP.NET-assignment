@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+    <siteMapNode url="~/ass2/index.aspx" title="Home"  description="Back to HomePage">
+    <siteMapNode url="~/ass2/aboutUs.aspx" title="About Us"  description="Something about us" >
+      <siteMapNode url="~/ass2/history.aspx" title="History"  description="Our history" />
+      <siteMapNode url="~/ass2/question.aspx" title="Any question"  description="Any questions???" />
+    </siteMapNode>
+    <siteMapNode url="~/ass2/signup.aspx" title="Sign Up"  description="Come Join Us" />
+       <siteMapNode url="~/ass2/locked/email.aspx" title="Email"  description="Send emails to other users" />
+      <siteMapNode url="~/ass2/locked/gallery.aspx" title="Gallery"  description="Graph Collections" />
+      <siteMapNode url="~/ass2/locked/Documentation.aspx" title="Documentation"  description="Documents" />
+      <siteMapNode url="~/ass2/siteMap.aspx" title="Site Map"  description="Useless" />
+    
+  </siteMapNode>
+</siteMap>
